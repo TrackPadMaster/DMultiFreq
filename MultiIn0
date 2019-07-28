@@ -1,0 +1,10 @@
+1250         ! atom_num: Number of Atoms
+10.0d0        ! gammaP
+100000       ! ntstep
+1.570796327  ! phi: phase difference
+200          ! U_0: potential depth
+0.05        ! dt0: time step to be scaled by gammaP
+3456789      ! IDUM: random number genetator seed
+219823       ! JDUM: 2nd random number generator seed
+20         ! F_0: force amplitude in units of F_r
+5.00000 !	pqratio
